@@ -1,6 +1,6 @@
 # Iberian Peninsula Genome Data Processing
 
-Este proyecto se centra en la extracción, procesamiento y transformación de datos genómicos de la Fase 3 del Proyecto Genoma de individuos sanos de la Península Ibérica. Utilizando los servicios de Google Cloud Platform (GCP), el proyecto se ejecutó en una máquina virtual (VM) con Ubuntu, y el procesamiento y transformación de datos fue realizado con Python.
+Este proyecto se centra en la extracción, procesamiento y transformación de datos genómicos de la Fase 3 del Proyecto Genoma de individuos sanos de la Península Ibérica. Utilizando los servicios de Google Cloud Platform (GCP), el proyecto se ejecutó en una máquina virtual (VM) con Ubuntu, y el procesamiento y transformación de datos fue realizado con Python. La data utilizada para el proceso de extracción se puede conseguir en el siguiente enlace: https://www.internationalgenome.org/data 
 
 ## Características Principales:
 - **Extracción de Datos**: Descarga y extracción de millones de filas de datos genómicos del conjunto de datos del Proyecto Genoma.
